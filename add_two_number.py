@@ -22,4 +22,4 @@ for i in range(len(result)) :
         list3.append(result[i])
 
 print(list3)
-print(result)
+
