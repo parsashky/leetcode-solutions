@@ -1,5 +1,5 @@
 def plus_one():
-    digits = [9,9]
+    digits = [4,2,4,1]
     digits.reverse()
     
     digits[0] += 1  
